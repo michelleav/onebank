@@ -1,2 +1,8 @@
 # onebank
-Contains docker-compose that is required to run the whole onebank project
+## What this project contains
+
+- Kafka
+- Zookeeper
+- OnebankCPT
+- OneBankHub
+- 2 MYSQL databases
