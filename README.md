@@ -1,6 +1,6 @@
 # onebank
 ## Description
-The Docker compose file includes the follwing :
+The Docker compose file includes the following :
 - Kafka
 - Zookeeper
 - OneBankCPT - https://github.com/michelleav/onebankcpt
